@@ -4,11 +4,11 @@ public class Main {
 
         Customer customer = new Customer(
                 "C001",
-                "Ivan",
-                "Petrov",
-                "ivan@mail.com",
+                "qwerty",
+                "zxc",
+                "qwerty@mail.com",
                 "123456789",
-                "Moscow"
+                "Astana"
         );
 
         bank.addCustomer(customer);
